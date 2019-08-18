@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/service/impl/IdentityServiceImpl.java" line="280" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa2974c1-bd58-4f59-bc58-f3543c982652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/branch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="true" afterPath="$PROJECT_DIR$" afterDir="true" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/branch" beforeDir="true" afterPath="$PROJECT_DIR$/src/branch" afterDir="true" />
+      <change beforePath="$PROJECT_DIR$/src/main" beforeDir="true" afterPath="$PROJECT_DIR$/src/main" afterDir="true" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/DeptController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/RequestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1127">
+              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/service/impl/IdentityServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1679">
+              <caret line="117" column="29" selection-start-line="117" selection-start-column="29" selection-end-line="117" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/common/util/CommonContants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/common/util/VerifyAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="db" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\u</find>
+      <find>参数</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resource/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/identity/domain/Dept.java" />
+        <option value="$PROJECT_DIR$/src/main/java/identity/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/identity/domain/Job.java" />
+        <option value="$PROJECT_DIR$/src/main/java/identity/domain/Module.java" />
+        <option value="$PROJECT_DIR$/src/main/java/identity/domain/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/identity/domain/Popedom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/identity/domain/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/identity/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/domain/Dept.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/domain/Job.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/domain/Module.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/domain/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/repository/JobRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/repository/DeptRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/repository/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/repository/ModuleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/domain/Popedom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/identity/repository/PopedomRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/common/util/pager/PageModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/common/util/pager/PagerTag.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/service/impl/IdentityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/fkit/oa/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oa Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oa Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oa Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testProjectname" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.17126437" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\webapp" />
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\java\org\fkit\oa\identity" />
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\java\org\fkit\oa" />
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\java\org\fkit\common\util" />
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\resource\static" />
+      <recent name="C:\Users\walse\IdeaProjects\oa\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fkit.oa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.fkit.oa.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\walse\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\walse\IdeaProjects\oa" />
+          <option name="myCopyRoot" value="C:\Users\walse\IdeaProjects\oa" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\walse\IdeaProjects\oa\.idea" />
+          <option name="myCopyRoot" value="C:\Users\walse\IdeaProjects\oa\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\walse\IdeaProjects\oa" />
+          <option name="myCopyRoot" value="C:\Users\walse\IdeaProjects\oa\src\branch" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\walse\IdeaProjects\oa" />
+          <option name="myCopyRoot" value="C:\Users\walse\IdeaProjects\oa" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa2974c1-bd58-4f59-bc58-f3543c982652" name="Default Changelist" comment="" />
+      <created>1564542276629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564542276629</updated>
+      <workItem from="1564542281019" duration="14814000" />
+      <workItem from="1564614726134" duration="11767000" />
+      <workItem from="1564705458216" duration="3003000" />
+      <workItem from="1564709109481" duration="13535000" />
+      <workItem from="1564797733300" duration="7734000" />
+      <workItem from="1564886021128" duration="4669000" />
+      <workItem from="1564899052587" duration="578000" />
+      <workItem from="1564989473495" duration="863000" />
+      <workItem from="1565143319542" duration="1543000" />
+      <workItem from="1565148771989" duration="105000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1564989781817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564989781817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58611000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20151679" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.22643554" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="SVN Properties" order="15" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.20788912" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.1108742" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/Apink:oa:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>Apink:oa:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">Apink:oa:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.0.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.0.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.0.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.0.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.0.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework:spring-core:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.springframework:spring-core:jar:5.0.4.RELEASE/org.springframework:spring-jcl:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.0.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.4/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.4/com.fasterxml.jackson.core:jackson-core:jar:2.9.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.0.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.7.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.7.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.7.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.7.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework:spring-web:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework:spring-web:jar:5.0.4.RELEASE/org.springframework:spring-beans:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework:spring-webmvc:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework:spring-webmvc:jar:5.0.4.RELEASE/org.springframework:spring-aop:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework:spring-webmvc:jar:5.0.4.RELEASE/org.springframework:spring-context:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.0.RELEASE/org.springframework:spring-webmvc:jar:5.0.4.RELEASE/org.springframework:spring-expression:jar:5.0.4.RELEASE</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.45</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.0.0.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.0.RELEASE/com.zaxxer:HikariCP:jar:2.7.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.0.RELEASE/org.springframework:spring-jdbc:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final/org.javassist:javassist:jar:3.22.0-GA</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final/org.jboss:jandex:jar:2.0.3.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.hibernate:hibernate-core:jar:5.2.14.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/javax.transaction:javax.transaction-api:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.5.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.5.RELEASE/org.springframework:spring-orm:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.5.RELEASE/org.springframework:spring-tx:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework.data:spring-data-jpa:jar:2.0.5.RELEASE/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.0.0.RELEASE/org.springframework:spring-aspects:jar:5.0.4.RELEASE</node>
+            <node x="" y="">javax.servlet:jstl:jar:1.2</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.0.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.0.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.28</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.0.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.28</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.0.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.28</node>
+            <node x="" y="">org.apache.tomcat.embed:tomcat-embed-jasper:jar:8.5.28</node>
+            <node x="" y="">org.apache.tomcat.embed:tomcat-embed-jasper:jar:8.5.28/org.eclipse.jdt:ecj:jar:3.12.3</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.24916706330318897" x="2091.0" y="530.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/oa/src/main/java/org/fkit/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/oa/src/main/java/org/fkit/oa/identity/controller/ModuleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1736">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/oa/src/main/java/org/fkit/oa/identity/domain/Popedom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/repository/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/repository/DeptRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/repository/JobRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/repository/ModuleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/Popedom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
+            <element signature="e#1957#1958#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2037#2038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/repository/PopedomRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-jasper/8.5.31/tomcat-embed-jasper-8.5.31.jar!/javax/servlet/jsp/tagext/SimpleTagSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/error.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/taglib.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="187" column="18" selection-start-line="187" selection-start-column="18" selection-end-line="187" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pager.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/identity/role/bindUser/bindUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/dto/UserModule.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.8.RELEASE/spring-data-commons-2.0.8.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/common/util/pager/PageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/util/OaContants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/service/IdentityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/common/util/pager/PagerTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3695">
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/PopedomController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/ModuleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/LogoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2691">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/controller/RequestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/identity/service/impl/IdentityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="117" column="29" selection-start-line="117" selection-start-column="29" selection-end-line="117" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/common/util/CommonContants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/common/util/VerifyAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fkit/oa/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>oa:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>oa</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17126437" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
